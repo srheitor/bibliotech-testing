@@ -1,7 +1,6 @@
 import pytest
 from src.bibliotech import pode_emprestar, calcular_multa, classificar_atraso
 
-
 # ==============================================================================
 # 1. TESTES PARA: pode_emprestar (RF01)
 # Requisito: Usuário ativo, sem pendência e com MENOS de 3 empréstimos (< 3)
